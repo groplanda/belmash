@@ -14,6 +14,11 @@ fields:
         label: 'Включить?'
         span: auto
         type: switch
+    sort_order:
+        label: 'Порядок сортировки'
+        span: auto
+        placeholder: '0'
+        type: number
 tabs:
     fields:
         image:
